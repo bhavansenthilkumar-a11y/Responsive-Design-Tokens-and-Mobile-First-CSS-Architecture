@@ -72,4 +72,4 @@ Responsive testing screenshots are available in the `screenshots/` directory, or
 
 ## Author
 
-Created as part of a responsive web design and CSS architecture internship task.
+Created as part of a responsive web design and CSS architecture.
